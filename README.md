@@ -1,4 +1,4 @@
-# 📊 Análise de Preços da Gasolina no Brasil (2004–2021)
+# Análise de Preços da Gasolina no Brasil (2004–2021)
 
 ##  Descrição do Projeto
 Este projeto tem como objetivo analisar a evolução dos preços da gasolina comum no Brasil ao longo dos anos, utilizando dados públicos. A análise busca identificar padrões temporais, diferenças regionais e comportamentos atípicos nos preços de revenda.
