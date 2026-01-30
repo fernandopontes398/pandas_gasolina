@@ -47,5 +47,5 @@ Algumas das perguntas exploradas no projeto:
 O projeto demonstra como dados públicos podem ser utilizados para extrair insights relevantes sobre o comportamento de preços no Brasil. A abordagem aplicada gerou exelentes aprendizados sobre o uso da ferramenta pandas e analises baseadas nos resultados.
 
 ## Autor
-Carlos Fernando Gomes de Pontes
+Carlos Fernando Gomes de Pontes,
 Projeto desenvolvido para fins de estudo e portfólio em Ciência de Dados.
